@@ -1,0 +1,62 @@
+// Investigators file
+// ---Expected Format--- 
+// -Effective Investigator: 0|<Investigator ID>|<Name>|<DEI Email>|<DEI Office ID>|<DEI Phone Number>
+// -Student Investigator: 0|<Investigator ID>|<Name>|<DEI Email>|<PHd Thesis Title>|<Expected PHd Completion Date>|<Advisor Investigator ID>
+
+1|1|Karoline Lebell|karolinelebell@dei.uc.pt|A high-level distributed data center applied to an integrated bioinformatic display|07/04/2024|3
+
+1|2|Werner Mulholland|wernermulholland@dei.uc.pt|A virtual secure network embedded in a responsive programmable work cluster|07/10/2022|23
+
+0|3|Haze Dunckley|hazedunckley@dei.uc.pt|B14|921555263
+
+1|4|Barbee Stowgill|barbeestowgill@dei.uc.pt|A coordinated logical network related to a balanced real-time protocol|19/04/2022|3
+
+0|5|Deck Yakushkin|deckyakushkin@dei.uc.pt|A13|915555743
+
+1|6|Myca Blunden|mycablunden@dei.uc.pt|A responsive programmable algorithm related to a reliable functional protocol|11/03/2024|19
+
+1|7|Lurleen Opdenort|lurleenopdenort@dei.uc.pt|A collaborative high-speed interface embedded in a meta-level real-time solution|19/06/2021|9
+
+1|8|Mellie Porte|mellieporte@dei.uc.pt|A conceptual parallelizing hypervisor embedded in an active big data protoc|25/05/2024|24
+
+0|9|Lenora Brackpool|lenorabrackpool@dei.uc.pt|B19|965553466
+
+1|10|Mindy Byforth|mindybyforth@dei.uc.pt|A type-safe digital database derived from a collaborative bioinformatic hypervisor|10/09/2022|24
+
+1|11|Salomone Jotham|salomonejotham@dei.uc.pt|A virtual multi-core preprocessor embedded in a virtual logical database|11/11/2023|5
+
+1|12|Starlin Hoyte|starlinhoyte@dei.uc.pt|A balanced multimedia interface applied to a collaborative cloud-based architecture|10/05/2025|27
+
+1|13|Ddene Alster|ddenealster@dei.uc.pt|An open mobility display applied to an open object-oriented display|24/12/2022|20
+
+0|14|Luz Culpen|luzculpen@dei.uc.pt|B5|915558501
+
+0|15|Sabina Foggarty|sabinafoggarty@dei.uc.pt|B17|921555001
+
+0|16|Cecilio Lyvon|ceciliolyvon@dei.uc.pt|A12|922555168
+
+0|17|Pattie Bertolin|pattiebertolin@dei.uc.pt|B21|915553634
+
+1|18|Fonzie Aguirrezabal|fonzieaguirrezabal@dei.uc.pt|A responsive logical theorem prover embedded in an active knowledge-based solution|15/09/2021|5
+
+0|19|Claiborne Wolvey|claibornewolvey@dei.uc.pt|A2|929155532
+
+0|20|Gerri Czaja|gerriczaja@dei.uc.pt|A9|935551316
+
+1|21|Court Guyet|courtguyet@dei.uc.pt|An optimized secure data center derived from an interactive functional solution|02/11/2022|26
+
+1|22|Quent Sergison|quentsergison@dei.uc.pt|A synchronized mobility work cluster embedded in a meta-level high-speed theorem prover|31/01/2025|20
+
+0|23|Jorge Henriques|jh@dei.uc.pt|C1|968267153
+
+0|24|Penousal Machado|machado@dei.uc.pt|C2|967290336
+
+0|25|Nuno Lourenco|naml@dei.uc.pt|C3|965782123
+
+0|26|Licinio Roque|lir@dei.uc.pt|C4|962781290
+
+0|27|Paulo Simoes|psimoes@dei.uc.pt|C5|964290671
+
+0|28|Henrique Madeira|henrique@dei.uc.pt|C6|926742891
+
+0|29|Sancho Simoes|sancho@dei.uc.pt|C7|111111111

@@ -1,0 +1,12 @@
+Adadptive Communication|AC|23
+1|2|3|4
+Cognitive and Media Systems|CMS|24
+7|8|9|10
+Evolutionary and Complex Systems|ECOS|25
+14|15|16|17
+Information Systems|IS|26
+20|21|22|13
+Communications and Telematics|LCT|27
+6|12|19
+Software and Systems Engineering|SSE|28
+5|11|18|29
